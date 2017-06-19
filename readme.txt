@@ -7,3 +7,4 @@ Git is a free software ...
 this is bug
 github editor
 intellij idea dtitor
+local dev commit;

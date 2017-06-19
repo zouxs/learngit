@@ -5,6 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick & simple.dev
 Git is a free software ...
 this is bug
-github editor
-intellij idea dtitor
-local dev commit;
+this is  local test

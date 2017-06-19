@@ -6,3 +6,4 @@ Creating a new branch is quick & simple.dev
 Git is a free software ...
 this is bug
 github editor
+intellij idea dtitor
